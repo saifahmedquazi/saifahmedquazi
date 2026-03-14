@@ -1,5 +1,59 @@
-# 💫 About Me:
-i am site reliability engineer having 5+ years of experince<br>
+# 💫 Hi I am Saif Ahmed Quazi:
+🚀 Site Reliability Engineer | DevOps Enthusiast | Cloud & Automation Specialist
+
+💼 Professional Summary
+🔹 Site Reliability Engineer with 3+ years of experience in the software development industry, specializing in Build, Release, and Software Configuration Management.
+🔹 Passionate about automation, cloud infrastructure, and CI/CD pipelines to deliver reliable and scalable systems.
+🔹 Strong experience working with DevOps tools, cloud platforms, and containerized environments.
+
+🛠 Technical Skills & Expertise
+
+🔹 🧑‍💻 Source Code Management:
+Hands-on experience with Git & GitHub for version control, collaboration, and code management.
+
+🔹 🔄 CI/CD & Automation:
+Proficient in building Continuous Integration and Continuous Delivery pipelines using Jenkins.
+
+🔹 ⚙️ Infrastructure as Code (IaC):
+Experience automating infrastructure using Ansible and basic knowledge of Terraform.
+
+🔹 🐧 Linux & Scripting:
+Strong hands-on experience with Linux environments and Shell scripting for automation and system management.
+
+🔹 ☁️ Cloud Technologies:
+Advanced working knowledge of AWS Cloud Services for deploying and managing scalable infrastructure.
+
+🔹 🐳 Containerization:
+Hands-on experience with Docker for building, packaging, and deploying containerized applications.
+
+🔹 ☸️ Container Orchestration:
+Good understanding of Kubernetes for container orchestration and scalable deployments.
+
+🔹 🔍 Code Quality & Security:
+Experience using SonarQube for code quality analysis and security scanning.
+
+🔹 🗄 Database Knowledge:
+Working knowledge of SQL for data querying and database operations.
+
+🔹 🔗 Microservices Architecture:
+Basic knowledge of microservices integration with CI/CD pipelines and deployment processes.
+
+🤝 Let’s Connect
+
+📱 Mobile:
+8087145619
+
+📧 Email:
+quazii.saifee@gmail.com
+
+💻 GitHub:
+https://github.com/saifahmedquazi
+
+💼 Naukri:
+https://www.naukri.com/mnjuser/homepage
+
+🔎 Indeed:
+https://my.indeed.com/p/saifahmedq-f9gbh2r
 
 
 ## 🌐 Socials:
